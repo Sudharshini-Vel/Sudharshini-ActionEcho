@@ -1,0 +1,8 @@
+{
+  "name": "ActionEcho",
+  "description": "AI-powered assistive communication app converting sign language to real-time text and speech.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
